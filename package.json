@@ -1,0 +1,22 @@
+{
+  "name": "adyen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "jest"
+  },
+  "author": "Lukas Bacevicius - SUPERB",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "jest": "^23.6.0",
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
