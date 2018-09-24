@@ -30,7 +30,7 @@ Install the package with:
 
   const AdyenNode = require('AdyenNode')(config);
 
-  // Authorise a card payment
+  // EXAMPLE HOW TO MAKE A REQUEST TO THE ENDPOINT - Authorise a card payment
   const parameters = {
       "card": {
           "number": "4111111111111111",
