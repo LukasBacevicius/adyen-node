@@ -7,6 +7,9 @@
     "start": "nodemon index.js",
     "test": "jest"
   },
+  "engines": {
+    "node": ">=8.0.0"
+  },
   "author": "Lukas Bacevicius - SUPERB",
   "license": "ISC",
   "devDependencies": {
