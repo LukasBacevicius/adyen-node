@@ -51,7 +51,8 @@ Install the package with:
 ```
 
 ## Suported services and endpoints
-    For more information about each of endpoints (parameters, example response and etc.) see [Adyen API explorer](https://docs.adyen.com/api-explorer)
+
+For more information about each of endpoints (parameters, example response and etc.) see [Adyen API explorer](https://docs.adyen.com/api-explorer)
 
 * payment:
     * authorise
