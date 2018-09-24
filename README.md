@@ -22,9 +22,9 @@ Install the package with:
       login: 'YOUR_WS_LOGIN',
       password: 'YOUR_PASSWORD',
       versions: {
-          payment: 'v30',
-          recurring: 'v25',
-          payouts: 'v30',
+          payment: 'v30', // Version of Adyen Payment Service of API 
+          payouts: 'v30', // Version of Adyen Payouts Service of API
+          recurring: 'v25', // Version of Adyen Recurring Service of API
       }
   };
 
