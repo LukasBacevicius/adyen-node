@@ -5,9 +5,6 @@ module.exports = {
     "max-len": [
       1,
       120
-    ],
-    "no-underscore-dangle": [
-      0
     ]
   }
 };
