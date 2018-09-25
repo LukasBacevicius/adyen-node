@@ -73,3 +73,18 @@ For more information about each of endpoints (parameters, example response and e
 *  recurring
     * listRecurringDetails
     * disable
+
+
+## Development
+
+Install node_modules
+
+```bash
+$ npm i
+```
+
+Run tests
+
+```bash
+$ npm test
+```
